@@ -28,6 +28,7 @@ def get_filters():
             print("Invalid city name. Please try again!")
 
     # TO DO: get user input for month (all, january, february, ... , june)
+    # Make sure you include all months 
     while True:
         month = input("Please enter the name of the month to filter by, or 'all' to apply no month filter: ").strip().lower()
         months_list = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december', 'all']
