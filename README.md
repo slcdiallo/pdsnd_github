@@ -4,13 +4,7 @@
 The project was created on 7/29/2023
 
 ### Project Title
-<<<<<<< HEAD
 Exploring the US Bikeshare data
-||||||| 5b38556
-Replace the Project Title
-=======
-Exploring US Bikeshare data
->>>>>>> origin/refactoring
 
 ### Description
 In this project, we will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. We will write code to import the data and answer interesting questions about it by computing descriptive statistics. We will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
